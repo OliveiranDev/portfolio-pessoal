@@ -1,4 +1,4 @@
-[logo de oliveiran.dev](https://github.com/OliveiranDev/portfolio-pessoal/assets/161872994/940c1304-4d92-48be-9100-b5b4248bb397)
+![logo de oliveiran.dev](https://github.com/OliveiranDev/portfolio-pessoal/assets/161872994/940c1304-4d92-48be-9100-b5b4248bb397)
  <h1 align="center"> Portfolio-Pessoal</h1>
 <p>Olá! </p>
 <p>Meu nome é Rodrigo Neves e sou um estudante de Front-End na Alura Online. Este é o meu portfólio pessoal, desenvolvido com HTML e CSS como parte do meu aprendizado. Aqui, os visitantes podem explorar minha trajetória, informações pessoais e acompanhar meus estudos futuros. O portfólio foi criado como um projeto do curso da Alura Online, onde tenho aprimorado minhas habilidades em desenvolvimento web. </p>
